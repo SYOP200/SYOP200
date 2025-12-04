@@ -1,3 +1,6 @@
+<img width="668" height="374" alt="Untitled_design-2-removebg-preview" src="https://github.com/user-attachments/assets/2a100280-0bb4-4901-8562-567f7bbbb64a" />
+
+
 # Hello!
 I am a programmer that codes in HTML, Java, CSS and Javascript.
 I have been very busy latly because I have been developing my first custom Flipper Zero firmware. I also started making random stupid games, which I find very funny. 
