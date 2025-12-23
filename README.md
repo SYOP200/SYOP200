@@ -1,4 +1,4 @@
-<img width="668" height="374" alt="Untitled_design-2-removebg-preview" src="https://github.com/user-attachments/assets/2a100280-0bb4-4901-8562-567f7bbbb64a" />
+<img width="1600" height="447" alt="image" src="https://github.com/user-attachments/assets/d504efdf-7b0d-4471-ae80-42aef662d40b" />
 </h3>
 
 [![💻Discord Server](https://img.shields.io/iscord/937479784148115456?style=flat&logo=discord&label=Discord&color=%237289DA&link=https%3A%2F%2Fdiscord.unleashedflip.com%2F)](https://iscord.unleashedflip.com)
