@@ -3,6 +3,7 @@
 
 [![💻Discord Server](https://img.shields.io/iscord/937479784148115456?style=flat&logo=discord&label=Discord&color=%237289DA&link=https%3A%2F%2Fdiscord.unleashedflip.com%2F)](https://iscord.unleashedflip.com)
 [![💻Website]([https://](https://finnsabia.com/))](https://finnsabia.com/)
+![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 
 
 
