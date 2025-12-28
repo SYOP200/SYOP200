@@ -18,8 +18,9 @@ If you want to talk to me you can chat on Discord. My Discord info is in the Soc
 - Zortex Tech Solutions
 
 ## Contributing 
-I have cntributed on many Flipper Zero custom firmware projects!
-
+I have cntributed on many Flipper Zero custom firmware projects! <br>
+API-Tester -Zortex Tech Solutions <br>
+Client Debugger -Zortex Tech Solutions <br>
 ## Contact
 If you have any questions about what I do, go to my Discord profile and send me a message. <br>
 If you are interested please check out my oficial website [HERE](https://finnsabia.com)
