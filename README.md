@@ -5,6 +5,6 @@
   <br /><br />
   <strong>Website Developer and programmer</strong> — building tools for developers.
   <br /><br />
-  <a href="https://brunowego.com" target="_blank">Website</a> · <a href="https://linkedin.com/in/brunowego" target="_blank">LinkedIn</a> · <a href="https://x.com/brunowego" target="_blank">X</a>
+  <a href="https://finnsabia.com" target="_blank">Website</a> 
   <br /><br />
 </p>
