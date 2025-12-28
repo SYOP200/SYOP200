@@ -1,12 +1,9 @@
 <img width="1300" height="389" alt="pixil-frame-0-3" src="https://github.com/user-attachments/assets/3621789f-1eec-4642-8259-9ffbba0e361c" />
 
 </h3>
+<a href="https://finnsabia.com" target="_blank">Website</a>
 
-[![💻Discord Server](https://img.shields.io/iscord/937479784148115456?style=flat&logo=discord&label=Discord&color=%237289DA&link=https%3A%2F%2Fdiscord.unleashedflip.com%2F)](https://iscord.unleashedflip.com)
-![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-
-
-
+---
 # About me
 I am a programmer that codes in HTML, Java, CSS and Javascript. I am currently learning more! <br>
 I have been very busy latly because I have been developing my first custom Flipper Zero firmware. I also started making random stupid games, which I find very funny. <br>
