@@ -1,4 +1,5 @@
-<img width="1600" height="447" alt="image" src="https://github.com/user-attachments/assets/d504efdf-7b0d-4471-ae80-42aef662d40b" />
+<img width="1300" height="389" alt="pixil-frame-0-3" src="https://github.com/user-attachments/assets/3621789f-1eec-4642-8259-9ffbba0e361c" />
+
 </h3>
 
 [![💻Discord Server](https://img.shields.io/iscord/937479784148115456?style=flat&logo=discord&label=Discord&color=%237289DA&link=https%3A%2F%2Fdiscord.unleashedflip.com%2F)](https://iscord.unleashedflip.com)
