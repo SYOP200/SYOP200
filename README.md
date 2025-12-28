@@ -1,7 +1,7 @@
 
 <p align="center">
   <br /><br />
-  <img height="40" src="/assets/img/logo.svg">
+  <img width="1300" height="389" alt="pixil-frame-0-3" src="https://github.com/user-attachments/assets/5e611672-6483-4282-9d7f-0d495fdff792" />
   <br /><br />
   <strong>Together, from scratch to scale</strong> — building AI-driven products with global reach.
   <br /><br />
