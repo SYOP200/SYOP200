@@ -42,8 +42,9 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "SYOP200"
+        self.name = "Finn Sabia"
         self.role = "Full Stack Dev"
+        self.hobbies = "Web development"
         self.languages = [
             "HTML",
             "Python", 
@@ -52,7 +53,7 @@ class Developer:
         self.learning = "Always"
     
     def get_status(self):
-        return "Building cool stuff"
+        return "Building cool stuff (and probably drinking coffee)"
 ```
 
 </td>
