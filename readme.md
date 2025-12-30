@@ -9,6 +9,10 @@
 
 [![Email](https://img.shields.io/badge/Email-Finnwhiskey%40gmail.com-FF8C00?style=flat-square&logo=gmail&logoColor=white)](mailto:Finnwhiskey@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=SYOP200&color=FF8C00&style=flat-square)](https://github.com/SYOP200)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Ffinnsabia.com&color=FF8C00&style=flat-square)
+![Static Badge](https://img.shields.io/badge/Link-Website?style=flat-square&label=Website&color=FF8C00&link=https%3A%2F%2Ffinnsabia.com)
+
+
 
 </div>
 
@@ -79,6 +83,8 @@ class Developer:
 
 
 
+
+
 </div>
 
 </td>
@@ -133,16 +139,13 @@ class Developer:
 ### 🎯 Chrome Extension Manager
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=ChromeExtensionManager-2&theme=dark&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff&bg_color=0d1117&border_color=FF8C00&hide_border=true)](https://github.com/SYOP200/ChromeExtensionManager)
 
-
-
 </div>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
 
-<div align="center">
+
 
 </div>
 
