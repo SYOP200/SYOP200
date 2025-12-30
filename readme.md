@@ -10,7 +10,8 @@
 [![Email](https://img.shields.io/badge/Email-Finnwhiskey%40gmail.com-FF8C00?style=flat-square&logo=gmail&logoColor=white)](mailto:Finnwhiskey@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=SYOP200&color=FF8C00&style=flat-square)](https://github.com/SYOP200)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffinnsabia.com&color=FF8C00&style=flat-square)
-![Static Badge](https://img.shields.io/badge/Link-Website?style=flat-square&label=Website&color=FF8C00&link=https%3A%2F%2Ffinnsabia.com)
+![Static Badge](https://img.shields.io/badge/Finnsabia.com-Website?style=flat-square&label=Website&color=FF8C00&link=https%3A%2F%2Ffinnsabia.com)
+
 
 
 
