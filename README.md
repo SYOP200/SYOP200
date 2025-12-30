@@ -14,3 +14,15 @@
   <a href="https://finnsabia.com" target="_blank">Website</a> 
   <br /><br />
 </p>
+
+## About me
+Hello, I am a website developer and programmer. <br>
+I have been working with HTML for 3 years and have 5 active websites. <br>
+If you are interested to see more of what I do, click [here](https://finnsabia.com) <br>
+
+## Popular Repositories 
+- [Flipper Zero Downloads](https://github.com/SYOP200/Flipper-Zero-Downloads)
+
+## Organizations
+- [Zortex Tech Solutions](@Zortex-Tech-Solutions)
+
