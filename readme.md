@@ -60,6 +60,15 @@ class Developer:
     def get_status(self):
         return "Building cool stuff (and probably drinking coffee)"
 ```
+</td>
+<td width="50%" valign="top">
+
+## What im working on
+
+- Sharko Authenticator
+
+  
+- Flipper Zero Downloads
 
 </td>
 </tr>
