@@ -146,7 +146,7 @@ class Developer:
 
 <div align="center">
 
-### 🎯 Chrome Extension Manager
+### 🎯 Chrome Extension Manager (Closed)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=ChromeExtensionManager-2&theme=dark&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff&bg_color=0d1117&border_color=FF8C00&hide_border=true)](https://github.com/SYOP200/ChromeExtensionManager)
 
 </div>
@@ -156,7 +156,7 @@ class Developer:
 
 <div align="center">
 
-### 💻 Sharko Authenticator 
+### 💻 Sharko Authenticator (Coming Soon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Sharko-Authenticator-2&theme=dark&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff&bg_color=0d1117&border_color=FF8C00&hide_border=true)](https://github.com/SYOP200/Sharko-Authenticators)
 
 </div>
