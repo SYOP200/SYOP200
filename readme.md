@@ -2,6 +2,7 @@
 
 <img width="1400" height="390" alt="download" src="https://github.com/user-attachments/assets/dbc49124-efa5-4a5d-9809-cce33c5b884a" />
 
+
 # 💻 SYOP200
 
 ### Website Developer & Programmer
@@ -114,7 +115,7 @@ class Developer:
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 <div align="center">
 
@@ -124,7 +125,7 @@ class Developer:
 </div>
 
 </td>
-<td width="33%">
+<td width="50%">
 
 <div align="center">
 
@@ -134,7 +135,9 @@ class Developer:
 </div>
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
 <div align="center">
 
@@ -142,6 +145,31 @@ class Developer:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Sharko-Authenticator-2&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=0066FF&hide_border=true)](https://github.com/SYOP200/Sharko-Authenticators)
 
 </div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 🎮 Bureaucratic Hell
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Bureaucratic_Hell&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=0066FF&hide_border=true)](https://github.com/SYOP200/Bureaucratic_Hell)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🤖 Cotton-AI (In Development)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Cotton-AI&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=0066FF&hide_border=true)](https://github.com/SYOP200/Cotton-AI)
+
+</div>
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
