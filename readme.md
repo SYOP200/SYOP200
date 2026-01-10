@@ -68,6 +68,8 @@ class Developer:
 - Sharko Authenticator
 - Flipper Zero Downloads
 - Cotton Code AI
+- Macwidget-studio
+- ToDo-list
 
 </td>
 <td width="50%" valign="top">
