@@ -44,7 +44,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Finn Sabia"
+        self.name = "SYOP200"
         self.role = "Full Stack Dev"
         self.hobbies = "Web development"
         self.languages = [
