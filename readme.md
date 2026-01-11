@@ -1,8 +1,5 @@
 <div align="center">
 
-<img width="1400" height="390" alt="download" src="https://github.com/user-attachments/assets/dbc49124-efa5-4a5d-9809-cce33c5b884a" />
-
-
 # 💻 SYOP200
 
 ### Website Developer & Programmer
