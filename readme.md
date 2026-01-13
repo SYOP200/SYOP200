@@ -50,6 +50,11 @@ Active:
   - Cotton Code AI
   - Macwidget Studio
   - ToDo List
+  - Weather-saas
+Closed:
+  - Chrome Extension Manager
+  - SubSpectra Firmware
+  - Bloxd TexturePacks
 ```
 
 </td>
@@ -88,6 +93,8 @@ Active:
 [![Cotton-AI](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Cotton-AI&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Cotton-AI)
 
 [![Macwidget-studio](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=macwidget-studio&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/macwidget-studio)
+
+[![Weather-saas](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Weather-saas&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Weather-saas)
 </div>
 
 </td>
