@@ -1,5 +1,4 @@
 
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header&text=SYOP200&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 ### Website Developer & Programmer
@@ -84,19 +83,26 @@ Closed:
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-
-<div align="left">
+<td width="50%" align="center">
 
 [![Flipper Zero Downloads](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Flipper-Zero-Downloads&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Flipper-Zero-Downloads)
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+</td>
+<td width="50%" align="center">
 
 [![Cotton-AI](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Cotton-AI&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Cotton-AI)
 
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
 [![Macwidget-studio](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=macwidget-studio&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/macwidget-studio)
 
+</td>
+<td width="50%" align="center">
+
 [![Weather-saas](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Weather-saas&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Weather-saas)
-</div>
 
 </td>
 </tr>
