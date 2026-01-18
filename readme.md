@@ -90,7 +90,7 @@ Closed:
 </td>
 <td width="50%" align="center">
 
-[![Cotton-AI](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Cotton-AI&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Cotton-AI)
+[![Sharko-Authenticator](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Sharko-Authenticator&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Sharko-Autheticator)
 
 </td>
 </tr>
