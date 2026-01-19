@@ -47,14 +47,9 @@
 Active:
   - Sharko Authenticator
   - Flipper Zero Downloads
-  - Cotton Code AI
   - Macwidget Studio
-  - ToDo List
   - Weather-saas
-Closed:
-  - Chrome Extension Manager
-  - SubSpectra Firmware
-  - Bloxd TexturePacks
+  - My Wallpapers
 ```
 
 </td>
