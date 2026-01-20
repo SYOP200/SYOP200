@@ -3,7 +3,7 @@
 
 ### Website Developer & Programmer
 
-[![Email](https://img.shields.io/badge/Email-Finnwhiskey%40gmail.com-0066FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Finnwhiskey@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Linux_Nerd1%40outlook.com-0066FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Linux_Nerd1@outlook.com)
 [![Website](https://img.shields.io/badge/Website-Finnsabia.com-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://finnsabia.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=SYOP200&color=0066FF&style=for-the-badge)](https://github.com/SYOP200)
 
