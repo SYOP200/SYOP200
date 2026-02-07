@@ -14,7 +14,7 @@
 <table width="100%">
 <tr>
 <td colspan="2" align="center">
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-### 🚀 Current Projects
+### Current Projects
 
 </div>
 
@@ -59,7 +59,7 @@ Active:
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Followers](https://img.shields.io/github/followers/SYOP200?style=for-the-badge&color=0066FF&labelColor=1a1a1a)
 
@@ -69,37 +69,6 @@ Active:
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td colspan="2"><br></td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<h2>🏆 Featured Repositories</h2>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-[![Flipper Zero Downloads](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Flipper-Zero-Downloads&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Flipper-Zero-Downloads)
-
-</td>
-<td width="50%" align="center">
-
-[![Sharko-Authenticator](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Sharko-Authenticator&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Sharko-Autheticator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-[![Macwidget-studio](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=macwidget-studio&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/macwidget-studio)
-
-</td>
-<td width="50%" align="center">
-
-[![Weather-saas](https://github-readme-stats.vercel.app/api/pin/?username=SYOP200&repo=Weather-saas&theme=dark&title_color=0066FF&icon_color=0066FF&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false)](https://github.com/SYOP200/Weather-saas)
 
 </td>
 </tr>
@@ -108,7 +77,7 @@ Active:
 </tr>
 <tr>
 <td colspan="2" align="center">
-<h2>🏢 Organizations</h2>
+<h2>Organizations</h2>
 </td>
 </tr>
 <tr>
@@ -136,7 +105,6 @@ Active:
 
 ---
 
-### 💭 *"First, solve the problem. Then, write the code."*
 
 <br>
 
