@@ -8,8 +8,8 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 🖥️ ABS PC (Windows 11)
 
 ## Projects
-- [Flipper Zero Downloads](https:github/com/SYOP200/Flipper-Zero-Downloads)
-- [DevForge](https:github.com/SYOP200/DevForge)
+- [Flipper Zero Downloads](https://github.com/SYOP200/Flipper-Zero-Downloads)
+- [DevForge](https://github.com/SYOP200/Devforge)
 
 ## Contact
 Email: [Linux_Nerd1@outlook.com](mailito.Linux_Nerd1@outlook.com) <br>
