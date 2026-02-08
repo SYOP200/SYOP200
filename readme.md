@@ -1,115 +1,13 @@
+## About me
+I am SYOP200, a web developer who is starting to make apps and software. All of my config files for Linux, Hyprland, and waybar are [here](https:github.com/SYOP200/Dotfiles). I am looking to contribute to more software and projects to help grow my career.
+## Tech stack
+  
+#### Devices:
+- X1 Carbon gen 4 Thinkpad (Omarchy Linux)
+- MacBook Pro (MacOS)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header&text=SYOP200&fontSize=50&fontColor=ffffff&animation=fadeIn)
-
-### Website Developer & Programmer
-
-[![Email](https://img.shields.io/badge/Email-Linux_Nerd1%40outlook.com-0066FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Linux_Nerd1@outlook.com)
-[![Website](https://img.shields.io/badge/Website-Finnsabia.com-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://finnsabia.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SYOP200&color=0066FF&style=for-the-badge)](https://github.com/SYOP200)
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td colspan="2" align="center">
-<h2>Tech Stack</h2>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-F05032?style=for-the-badge&logo=typescript&logoColor=white)
-![Batch](https://img.shields.io/badge/batch-1572B6?style=for-the-badge&logo=batch&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-F7DF1E?style=for-the-badge&logo=bash&logoColor=white)
+## Projects
+- [Flipper Zero Downloads](https:github/com/SYOP200/Flipper-Zero-Downloads)
+- [DevForge](https:github.com/SYOP200/DevForge)
 
 
-</td>
-</tr>
-<tr>
-<td colspan="2"><br></td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### Current Projects
-
-</div>
-
-```yaml
-Active:
-  - Sharko Authenticator
-  - Flipper Zero Downloads
-  - Macwidget Studio
-  - Weather-saas
-  - My Wallpapers
-```
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### GitHub Stats
-
-![Followers](https://img.shields.io/github/followers/SYOP200?style=for-the-badge&color=0066FF&labelColor=1a1a1a)
-
-![Stars](https://img.shields.io/github/stars/SYOP200?style=for-the-badge&color=0066FF&labelColor=1a1a1a)
-
-![Commits](https://img.shields.io/github/commit-activity/t/SYOP200/Flipper-Zero-Downloads?style=for-the-badge&color=0066FF&labelColor=1a1a1a&label=Total%20Commits)
-
-</div>
-
-
-</td>
-</tr>
-<tr>
-<td colspan="2"><br></td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<h2>Organizations</h2>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<a href="https://github.com/Zortex-Tech-Solutions">
-<img src="https://github.com/Zortex-Tech-Solutions.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #0066FF;"/>
-</a>
-
-<br><br>
-
-**Zortex Tech Solutions**
-
-<br>
-
-[![Visit Organization](https://img.shields.io/badge/Visit_Organization-0066FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zortex-Tech-Solutions)
-
-</td>
-</tr>
-<tr>
-<td colspan="2"><br></td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
----
-
-
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer)
-
-</td>
-</tr>
-</table> 
