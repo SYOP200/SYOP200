@@ -3,11 +3,14 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 ## Tech stack
   
 #### Devices:
-- X1 Carbon gen 4 Thinkpad (Omarchy Linux)
-- MacBook Pro (MacOS)
+💻 X1 Carbon gen 4 Thinkpad (Omarchy Linux) <br>
+💻 MacBook Pro (MacOS) <br>
+🖥️ ABS PC (Windows 11)
 
 ## Projects
 - [Flipper Zero Downloads](https:github/com/SYOP200/Flipper-Zero-Downloads)
 - [DevForge](https:github.com/SYOP200/DevForge)
 
-
+## Contact
+Email: [Linux_Nerd1@outlook.com](mailito.Linux_Nerd1@outlook.com) <br>
+Discord: Coming soon...
