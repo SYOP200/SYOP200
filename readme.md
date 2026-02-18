@@ -12,16 +12,17 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 #### Devices:
 💻 X1 Carbon gen 4 Thinkpad (Omarchy Linux) <br>
-💻 M4 Macbook Air (MacOS) <br>
-🖥️ ABS PC (Windows 11)
+💻 M4 MacBook Air (MacOS) <br>
+🖥️ ABS PC (Windows 10)
 
-#### Tools
+#### Tools and Hardware
 🐬 Flipper Zero <br>
 🧰 M5 Stickc plus 2
 
 ## Projects
 - [Flipper Zero Downloads](https://github.com/SYOP200/Flipper-Zero-Downloads)
 - [DevForge](https://github.com/SYOP200/Devforge)
+- [Cake](https://github.com/SYOP200/Cake)
 
 ## Github Stats
 ![GitHub followers](https://img.shields.io/github/followers/SYOP200?style=flat&color=000)
