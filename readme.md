@@ -12,7 +12,7 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 #### Devices:
 💻 X1 Carbon gen 4 Thinkpad (Omarchy Linux) <br>
-💻 MacBook Pro (MacOS) <br>
+💻 M4 Macbook Air (MacOS) <br>
 🖥️ ABS PC (Windows 11)
 
 #### Tools
