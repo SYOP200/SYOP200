@@ -12,8 +12,8 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 #### Devices:
 💻 X1 Carbon gen 4 Thinkpad (Omarchy Linux) <br>
-💻 M4 MacBook Air (MacOS) <br>
-🖥️ ABS PC (Windows 10)
+💻 M5 MacBook Air (MacOS) <br>
+🖥️ ABS PC (Windows 11)
 
 #### Tools and Hardware
 🐬 Flipper Zero <br>
