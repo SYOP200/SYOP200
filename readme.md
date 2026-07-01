@@ -17,7 +17,9 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 #### Tools and Hardware
 🐬 Flipper Zero <br>
-🧰 M5 Stickc plus 2
+🧰 M5 Stickc plus 2 <br>
+📡 UV-5R HAM Radio <br>
+📡 UV-5G GMRS Radio
 
 ## Projects
 - [Flipper Zero Downloads](https://github.com/SYOP200/Flipper-Zero-Downloads)
