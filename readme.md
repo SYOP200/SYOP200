@@ -15,7 +15,7 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 💻 M5 MacBook Air (MacOS) <br>
 🖥️ ABS PC (Windows 11)
 
-#### Tools and Hardware
+#### Tools, Hardware, and Radios
 🐬 Flipper Zero <br>
 🧰 M5 Stickc plus 2 <br>
 📡 UV-5R HAM Radio <br>
