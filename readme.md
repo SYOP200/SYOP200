@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=161B22&text=SYOP%20200&desc=Developer%20•%20Hacker%20•%20Radio%20Enthusiast&descAlign=50&descAlignY=91&animation=fadeIn&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=161B22&text=SYOP%20200&desc=Developer%20•%20Hacker%20•%20Radio%20Enthusiast&fontFamily=Hack%20Nerd%20Font:propo&descAlign=50&descAlignY=91&animation=fadeIn&fontColor=ffffff)
 
 ## Hello!
 </div>
@@ -38,7 +38,7 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 🐬 Flipper Zero<br>
 🧰 M5StickC Plus 2<br>
-📡 UV-5R HAM Radio                         <br>
+📡 UV-5R HAM Radio                             <br>
 📡 UV-5G GMRS Radio <br>
 🍓 Raspberry Pi 5 Server (Raspberry Pi OS Lite)
 
