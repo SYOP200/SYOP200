@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=161B22&text=SYOP%20200&desc=Developer%20•%20Hacker%20•%20Radio%20Enthusiast&descAlign=50&descAlignY=91&animation=fadeIn&fontColor=ffffff)
+
 ## Hello!
 </div>
 
@@ -18,7 +20,7 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 </div>
 
 #### Devices:
-💻 X1 Carbon gen 4 Thinkpad (Omarchy Linux) <br>
+💻 X1 Carbon Gen 4 ThinkPad (Omarchy Linux) <br>
 💻 M5 MacBook Air (MacOS) <br>
 🖥️ ABS PC (Windows 11)
 
@@ -29,18 +31,32 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 📡 UV-5G GMRS Radio
 
 ## Projects
-- [Flipper Zero Downloads](https://github.com/SYOP200/Flipper-Zero-Downloads)
-- [DevForge](https://github.com/SYOP200/Devforge)
-- [Cake](https://github.com/SYOP200/Cake)
+<table>
+<tr>
+<td>
 
-## Github Stats
+[![Flipper-Zero-Downloads](https://github-stats-extended.vercel.app/api/pin/?username=SYOP200&repo=Flipper-Zero-Downloads&bg_color=000000&theme=radical&show_icons=true)](https://github.com/SYOP200/Flipper-Zero-Downloads)
+
+</td>
+<td>
+
+[![Devforge](https://github-stats-extended.vercel.app/api/pin/?username=SYOP200&repo=Devforge&bg_color=000000&theme=radical&show_icons=true)](https://github.com/SYOP200/Devforge)
+
+</td>
+<td>
+
+[![Cake](https://github-stats-extended.vercel.app/api/pin/?username=SYOP200&repo=Cake&bg_color=000000&theme=radical&show_icons=true)](https://github.com/SYOP200/Cake)
+
+</td>
+</tr>
+</table>
+
+## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=SYOP200&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=SYOP200&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.35&count_weight=0.65&hide=css,powershell)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SYOP200)](https://git.io/streak-stats)
-
+![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=SYOP200&count_private=true&show_icons=true&theme=radical&include_all_commits=true)&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=SYOP200&layout=compact&theme=radical&langs_count=8&size_weight=0.35&count_weight=0.65)
 </div>
 
 ## Contact
