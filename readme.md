@@ -47,6 +47,7 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 [![Cake](https://github-stats-extended.vercel.app/api/pin/?username=SYOP200&repo=Cake&bg_color=000000&theme=radical&show_icons=true)](https://github.com/SYOP200/Cake)
 
+
 </td>
 </tr>
 </table>
