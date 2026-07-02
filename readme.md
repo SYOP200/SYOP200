@@ -39,6 +39,7 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 ![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=SYOP200&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true)&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=SYOP200&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.35&count_weight=0.65&hide=css,powershell)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SYOP200)](https://git.io/streak-stats)
 
 </div>
 
