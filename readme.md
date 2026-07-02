@@ -22,7 +22,7 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 #### Devices:
 💻 X1 Carbon Gen 4 ThinkPad (Omarchy Linux) <br>
 💻 M5 MacBook Air (MacOS) <br>
-🖥️ ABS PC (Windows 11)
+🖥️ Custom PC (Windows 11)
 
 #### Tools, Hardware, and Radios
 🐬 Flipper Zero <br>
@@ -55,8 +55,8 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=SYOP200&count_private=true&show_icons=true&theme=radical&include_all_commits=true)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=SYOP200&layout=compact&theme=radical&langs_count=8&size_weight=0.35&count_weight=0.65)
+![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=SYOP200&count_private=true&show_icons=true&theme=radical&bg_color=000000&include_all_commits=true)&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=SYOP200&layout=compact&theme=radical&langs_count=8&size_weight=0.35&count_weight=0.65&bg_color=000000)
 </div>
 
 ## Contact
