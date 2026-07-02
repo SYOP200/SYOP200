@@ -29,7 +29,7 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 💻 X1 Carbon Gen 4 ThinkPad (Omarchy Linux)<br>
 💻 M5 MacBook Air (macOS)<br>
-🖥️ Custom PC (Windows 11)
+🖥️ Custom PC (Windows 11) <br>
 
 </td>
 <td valign="top">
@@ -38,8 +38,9 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 
 🐬 Flipper Zero<br>
 🧰 M5StickC Plus 2<br>
-📡 UV-5R HAM Radio<br>
-📡 UV-5G GMRS Radio
+📡 UV-5R HAM Radio                         <br>
+📡 UV-5G GMRS Radio <br>
+🍓 Raspberry Pi 5 Server (Raspberry Pi OS Lite)
 
 </td>
   </tr>
@@ -77,5 +78,5 @@ I am SYOP200, a web developer who is starting to make apps and software. All of 
 </div>
 
 ## Contact
-Email: [Linux_Nerd1@outlook.com](mailito.Linux_Nerd1@outlook.com) <br>
+Email: [hello@syop200.com](mailito.hello@syop200.com) <br>
 Discord: Coming soon...
