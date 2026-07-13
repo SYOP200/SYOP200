@@ -46,42 +46,7 @@ const SYOP200 = {
 <img src="https://raw.githubusercontent.com/SYOP200/SYOP200/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<details>
-<summary><b>⚙️ Snake animation setup (one-time, click to expand)</b></summary>
 
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SYOP200
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Enable Actions on this repo, run the workflow once manually, and it'll keep itself updated on the daily cron.
-
-</details>
 
 ## `> ping social_links`
 
