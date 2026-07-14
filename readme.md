@@ -54,7 +54,8 @@ const SYOP200 = {
 
 <a href="mailto:hello@syop200.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
 <a href="https://dev.to/SYOP200"><img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=00FF41"/></a>
-<a href="https://huggingface.co/SYOP200"><img src="https://img.shields.io/badge/-huggingface.co-000000?style=for-the-badge&logo=d&logoColor=00FF41"/></a>
+<a href="https://huggingface.co/SYOP200"><img src="https://img.shields.io/badge/-huggingface.co-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41"/></a>
+<a href="https://gitlab.com/SYOP200"><img src="https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=00FF41"/></a>
 
 <br/>
 
