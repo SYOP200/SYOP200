@@ -54,10 +54,11 @@ const SYOP200 = {
 
 <a href="mailto:hello@syop200.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
 <a href="https://dev.to/SYOP200"><img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=00FF41"/></a>
+<a href="https://huggingface.co/SYOP200"><img src="https://img.shields.io/badge/-huggingface.co-000000?style=for-the-badge&logo=d&logoColor=00FF41"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SYOP200&label=TERMINAL+VISITS&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=SYOP200&label=VISITS&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
 
 
 <sub>`> connection closed by remote host — thanks for stopping by` █</sub>
