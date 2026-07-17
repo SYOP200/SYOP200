@@ -31,6 +31,10 @@ const SYOP200 = {
 
 </div>
 
+## `> cat goals.md`
+- Contribute to more open source work
+- Make a succesful project
+
 ## `> ./fetch_stats.sh --verbose`
 
 <div align="center">
