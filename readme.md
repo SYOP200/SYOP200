@@ -1,51 +1,56 @@
-<div align="center">
+<h1 align="center">SYOP200</h1>
 
+<p align="center">
+  <sub>web developer · pentester </sub>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SYOP200?style=flat-square&color=000000&labelColor=ffffff&label=followers" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=SYOP200&style=flat-square&color=000000&label=views" alt="views" />
+</p>
 
-<a href="https://github.com/SYOP200">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%3E+booting+dev_environment...;%3E+loading+SYOP200.exe;%3E+access_granted+%E2%9C%93;%3E+Full-Stack+Web+Developer;%3E+building+things+that+ship" alt="Typing SVG" />
-</a>
+`### about`
 
-</div>
+I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, but I am comfortable with TypeScript and shell scripting. I am proficient in the terminal and IDEs.
 
-`## About ##`
+`### stack`
 
-```js
-const SYOP200 = {
-    role: "Web Developer",
-    stack: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js"],
-    currentFocus: "building fast, functional web apps",
-    funFact: "console.log(life) // still debugging"
-    console.error(out of coffee)
-};
-```
-`## Stack ##`
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,bash,lua,git,docker&perline=11" alt="stack" />
+  </a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css&logoColor=00FF41)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+`### tools`
 
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,linux,apple,cursor,zed&perline=7" alt="tools" />
+  </a>
+</p>
 
-`## Stats ##`
+`### hardware`
 
-<div align="center">
+- M5StickC Plus2
+- Flipper Zero
+- Lenovo ThinkPad X1 Carbon Gen 4
+- MacBook Air (M5)
 
-<img src="https://streak-stats.demolab.com/?user=SYOP200&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="150"/>
+`### projects`
 
-</div>
+<img src="https://skillicons.dev/icons?i=c" height="16" align="top" /> &nbsp;**[Flipper-Zero-Downloads](https://github.com/SYOP200/Flipper-Zero-Downloads)** — Flipper Zero files and downloads
 
-`## Contact ##`
-<div align="center">
+<img src="https://skillicons.dev/icons?i=bash" height="16" align="top" /> &nbsp;**[yapshell](https://github.com/SYOP200/yapshell)** — Your yappy AI coding assistant baked into your terminal CLI.
 
-<a href="mailto:hello@syop200.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
-<a href="https://dev.to/SYOP200"><img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=00FF41"/></a>
-<a href="https://huggingface.co/SYOP200"><img src="https://img.shields.io/badge/-huggingface.co-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41"/></a>
-<a href="https://gitlab.com/SYOP200"><img src="https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=00FF41"/></a>
+<img src="https://skillicons.dev/icons?i=go" height="16" align="top" /> &nbsp;**[monet-code](https://github.com/SYOP200/monet-code)** — AI coding assistant TUI for Unix-based OSs
 
-</div>
+<img src="https://skillicons.dev/icons?i=linux" height="16" align="top" /> &nbsp;**[Dotfiles](https://github.com/SYOP200/Dotfiles)** — my system configurations for macOS and Arch Linux
+
+`### contact`
+
+<p align="center">
+  <a href="mailto:hello@syop200.com"><img src="https://img.shields.io/badge/-%20%20-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" title="hello@syop200.com" /></a>
+  <a href="https://github.com/SYOP200"><img src="https://img.shields.io/badge/-%20%20-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" title="github.com/SYOP200" /></a>
+  <a href="https://syop200.com"><img src="https://img.shields.io/badge/-%20%20-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDI4NUY0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg==" alt="website" title="syop200.com" /></a>
+  <img src="https://img.shields.io/badge/-g00se-000000?style=for-the-badge&logo=liberadotchat&logoColor=2ECC71&labelColor=000000" alt="irc" title="IRC username: g00se" />
+</p>
