@@ -6,7 +6,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/SYOP200?style=flat-square&color=000000&labelColor=ffffff&label=followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/SYOP200?style=flat-square&labelColor=ffffff&color=000000" alt="views" />
   <img src="https://komarev.com/ghpvc/?username=SYOP200&style=flat-square&color=000000&label=views" alt="views" />
+  
 </p>
 
 `### about`
