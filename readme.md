@@ -1,4 +1,4 @@
-<h1 align="center">SYOP200</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=SYOP200;-+Pentester+and+security+researcher;-+Web+developer;-+terminal+addict)](https://git.io/typing-svg)
 
 <p align="center">
   <sub>web developer · pentester </sub>
