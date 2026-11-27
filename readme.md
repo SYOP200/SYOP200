@@ -48,7 +48,12 @@ I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, 
 
 `### stats`
 
-![Languages Metrics](https://githubusercontent.com/SYOP200/SYOP200/main/metrics.plugin.languages.indepth.svg)
+<div align="center">
+  
+  ![Languages Metrics](https://github.com/SYOP200/SYOP200/blob/edf2059d0007cbf9b85867be36b5be81fde21eaf/metrics.plugin.languages.indepth.svg)
+  
+</div>
+  
 
 `### contact`
 
