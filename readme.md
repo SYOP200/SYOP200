@@ -17,7 +17,7 @@ I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,bash,lua,git,docker&perline=11" alt="stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,bash,lua,git,markdown&perline=11" alt="stack" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,linux,apple,cursor,zed&perline=7" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,linux,apple,arch,vim,neovim,notion,docker&perline=11" alt="tools" />
   </a>
 </p>
 
@@ -45,6 +45,11 @@ I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, 
 <img src="https://skillicons.dev/icons?i=go" height="16" align="top" /> &nbsp;**[monet-code](https://github.com/SYOP200/monet-code)** — AI coding assistant TUI for Unix-based OSs
 
 <img src="https://skillicons.dev/icons?i=linux" height="16" align="top" /> &nbsp;**[Dotfiles](https://github.com/SYOP200/Dotfiles)** — my system configurations for macOS and Arch Linux
+
+`### stats`
+
+![Languages Metrics](https://githubusercontent.com/SYOP200/SYOP200/main/metrics.plugin.languages.indepth.svg)
+
 
 `### contact`
 
