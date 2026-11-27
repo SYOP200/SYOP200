@@ -8,7 +8,7 @@
 
 </div>
 
-## `> cat about.md`
+`## About ##`
 
 ```js
 const SYOP200 = {
@@ -16,9 +16,10 @@ const SYOP200 = {
     stack: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js"],
     currentFocus: "building fast, functional web apps",
     funFact: "console.log(life) // still debugging"
+    console.error(out of coffee)
 };
 ```
-
+`## Stack ##`
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
@@ -31,7 +32,7 @@ const SYOP200 = {
 
 </div>
 
-## `> ./fetch_stats.sh --verbose`
+`## Stats ##`
 
 <div align="center">
 
@@ -39,29 +40,12 @@ const SYOP200 = {
 
 </div>
 
-## `> git log --graph --contributions`
-
-<div align="center">
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYOP200&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="100%"/> -->
-<img src="https://raw.githubusercontent.com/SYOP200/SYOP200/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-
-
-## `> ping social_links`
-
+`## Contact ##`
 <div align="center">
 
 <a href="mailto:hello@syop200.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
 <a href="https://dev.to/SYOP200"><img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=00FF41"/></a>
 <a href="https://huggingface.co/SYOP200"><img src="https://img.shields.io/badge/-huggingface.co-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41"/></a>
 <a href="https://gitlab.com/SYOP200"><img src="https://img.shields.io/badge/-Gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=00FF41"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SYOP200&label=VISITS&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
-
-
-<sub>`> connection closed by remote host — thanks for stopping by` █</sub>
 
 </div>
