@@ -50,7 +50,6 @@ I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, 
 
 ![Languages Metrics](https://githubusercontent.com/SYOP200/SYOP200/main/metrics.plugin.languages.indepth.svg)
 
-
 `### contact`
 
 <p align="center">
