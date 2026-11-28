@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=SYOP200;-+Pentester+and+security+researcher;-+Web+developer;-+terminal+addict)](https://git.io/typing-svg)
 
 <p align="center">
-  <sub>web developer · pentester </sub>
+  <sub> web developer · pentester </sub>
 </p>
 
 <p align="center">
@@ -15,6 +15,8 @@
 
 I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, but I am comfortable with TypeScript and shell scripting. I am proficient in the terminal and IDEs.
 
+<br>
+
 `### stack`
 
 <p align="center">
@@ -22,6 +24,8 @@ I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, 
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,bash,lua,git,markdown&perline=11" alt="stack" />
   </a>
 </p>
+
+<br>
 
 `### tools`
 
@@ -31,12 +35,16 @@ I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, 
   </a>
 </p>
 
+<br>
+
 `### hardware`
 
 - M5StickC Plus2
 - Flipper Zero
 - Lenovo ThinkPad X1 Carbon Gen 4
 - MacBook Air (M5)
+
+<br>
 
 `### projects`
 
@@ -50,14 +58,24 @@ I'm a full-stack web developer who mainly works with HTML, JavaScript, and CSS, 
 
 <img src="https://skillicons.dev/icons?i=linux" height="16" align="top" /> &nbsp;**[Dotfiles](https://github.com/SYOP200/Dotfiles)** — my system configurations for macOS and Arch Linux
 
+<br>
+
 `### stats`
 
 <div align="center">
-  
-  ![Languages Metrics](https://github.com/SYOP200/SYOP200/blob/edf2059d0007cbf9b85867be36b5be81fde21eaf/metrics.plugin.languages.indepth.svg)
-  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/SYOP200/SYOP200/blob/edf2059d0007cbf9b85867be36b5be81fde21eaf/metrics.plugin.languages.indepth.svg" alt="Languages Metrics">
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=SYOP200&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak">
+      </td>
+    </tr>
+  </table>
 </div>
   
+<br>
 
 `### contact`
 
